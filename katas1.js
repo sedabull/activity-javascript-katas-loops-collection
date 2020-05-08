@@ -22,7 +22,11 @@
 
   console.log('%cKATA 02 RESULTS:', 'background: darkblue; color: white; font-weight: bold;') // These console.logs are just to help make the console log better organized and more readable
 
-  /* Write your KATA 02 code in place of THIS comment. */
+  counter = 2;
+  while (counter <= 20) {
+    console.log(counter);
+    counter += 2;
+  }
 
 
 
@@ -34,7 +38,11 @@
 
   console.log('%cKATA 03 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
  
-  /* Write your KATA 03 code in place of THIS comment. */
+  counter = 1;
+  while (counter < 20) {
+    console.log(counter);
+    counter += 2;
+  }
 
 
 
@@ -46,7 +54,11 @@
 
   console.log('%cKATA 04 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 04 code in place of THIS comment. */
+  counter = 5;
+  while (counter <= 100) {
+    console.log(counter);
+    counter += 5;
+  }
 
 
 
@@ -58,7 +70,11 @@
 
   console.log('%cKATA 05 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 05 code in place of THIS comment. */
+  counter = 1;
+  while (counter <= 10) {
+    console.log(Math.pow(counter, 2));
+    counter += 1;
+  }
 
 
 
@@ -70,7 +86,11 @@
 
   console.log('%cKATA 06 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 06 code in place of THIS comment. */
+  counter = 20;
+  while (counter >= 1) {
+    console.log(counter);
+    counter -= 1;
+  }
 
 
 
@@ -82,7 +102,11 @@
 
   console.log('%cKATA 07 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 07 code in place of THIS comment. */
+  counter = 20;
+  while (counter > 0) {
+    console.log(counter);
+    counter -= 2;
+  }
 
 
 
@@ -94,7 +118,11 @@
 
   console.log('%cKATA 08 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 08 code in place of THIS comment. */
+  counter = 19;
+  while (counter >= 1) {
+    console.log(counter);
+    counter -= 2;
+  }
 
 
 
@@ -106,7 +134,11 @@
 
   console.log('%cKATA 09 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 09 code in place of THIS comment. */
+  counter = 100;
+  while (counter > 0) {
+    console.log(counter);
+    counter -= 5;
+  }
 
 
 
@@ -118,7 +150,11 @@
 
   console.log('%cKATA 10 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 10 code in place of THIS comment. */
+  counter = 10;
+  while (counter >= 1) {
+    console.log(Math.pow(counter, 2));
+    counter -= 1;
+  }
 
 
 
